@@ -1,4 +1,4 @@
-# Hey! Nice to see you.
+# 👋Hey! Nice to see you.
 
 ## Dreaming of Back-End Engineer👩‍💻
 - Seungeon Kim (Jenn)
