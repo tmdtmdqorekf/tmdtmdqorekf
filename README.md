@@ -9,6 +9,7 @@
 
 ### Experiences
 - Studied abroad in Ireland & Canada (2016 - 2020)
+- Student council of the department (2021 - 2022)
 
 ### Contact📧
 
