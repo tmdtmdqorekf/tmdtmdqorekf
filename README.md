@@ -3,9 +3,7 @@
 ## Dreaming of Back-End Engineer👩‍💻
 - Seungeon Kim (Jenn)
 - International Business @Kookmin Univ.
-- <a href="https://tmdtmdqorekf.tistory.com/" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=tistory&logo=tistory&style=flat-square)"/></a>
-- [![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=tistory&logo=tistory&style=flat-square&url=https%3A%2F%2Ftmdtmdqorekf.tistory.com%2F)](https://img.shields.io/twitter/url?color=blue&label=tistory&logo=tistory&style=flat-square&url=https%3A%2F%2Ftmdtmdqorekf.tistory.com%2F)
-  <img src="https://img.shields.io/twitter/url?label=github&logo=github&style=flat-square&url=https%3A%2F%2Fgithub.com%2Ftmdtmdqorekf"/>
+- <a href="https://github.com/tmdtmdqorekf" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
 
 ### What I'm Studying💻
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
