@@ -3,6 +3,8 @@
 ## Dreaming of Back-End Engineer👩‍💻
 - Seungeon Kim (Jenn)
 - International Business @Kookmin Univ.
+
+<br>
 <a href="https://github.com/tmdtmdqorekf" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://blog.naver.com/tmddjsqorekf" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=Naver&logoColor=white"/></a>
 
