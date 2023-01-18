@@ -3,7 +3,7 @@
 ## Dreaming of Back-End Engineer👩‍💻
 - Seungeon Kim (Jenn)
 - International Business @Kookmin Univ.
-- <a href="https://tmdtmdqorekf.tistory.com/" target="_blank"><img src="![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=tistory&logo=tistory&style=flat-square&url=https%3A%2F%2Ftmdtmdqorekf.tistory.com%2F)"/></a>
+- <a href="https://tmdtmdqorekf.tistory.com/" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=tistory&logo=tistory&style=flat-square)"/></a>
 - [![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=tistory&logo=tistory&style=flat-square&url=https%3A%2F%2Ftmdtmdqorekf.tistory.com%2F)](https://img.shields.io/twitter/url?color=blue&label=tistory&logo=tistory&style=flat-square&url=https%3A%2F%2Ftmdtmdqorekf.tistory.com%2F)
   <img src="https://img.shields.io/twitter/url?label=github&logo=github&style=flat-square&url=https%3A%2F%2Fgithub.com%2Ftmdtmdqorekf"/>
 
