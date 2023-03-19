@@ -5,12 +5,12 @@
 - Computer Science @Kookmin Univ.
 
 ### What I'm Studying💻
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
 
 ### Experiences
 - Studied abroad in Ireland & Canada (2016 - 2020)
 - Student council of the department (2021 - 2022)
+- Involved in Likelion-KMU-11th (2023 - Current)
 
 ### Contact📧
 
