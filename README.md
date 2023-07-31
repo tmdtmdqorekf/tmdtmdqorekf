@@ -1,6 +1,6 @@
 # 👋Hey! Nice to see you.
 
-## Dreaming of Back-End Engineer👩‍💻
+## I'm a Back-End Engineer👩‍💻
 - Seungeon Kim (Jenn)
 - Computer Science @Kookmin Univ.
 
