@@ -16,3 +16,4 @@
 ### Experiences
 - **Studied abroad** / Ireland & Canada / 2016 - 2020 (4yr)
 - **Student council of the department** / Seoul, South Korea / 2021 - 2022 (1yr)
+- **Likelion 11th** / Seoul, South Korea / 2023 - Current
