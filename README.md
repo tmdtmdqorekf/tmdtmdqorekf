@@ -16,5 +16,5 @@
 ### Experiences
 - **Studied Abroad** / Ireland & Canada / 2016 - 2020 (4yr)
 - **Student Council of the Department** / Seoul, South Korea / 2021 - 2022 (1yr)
-- **Likelion 11th** & **Likelion 12th Admin** / Seoul, South Korea / 2023 - Current
+- **Likelion 11th** & **12th Admin** / Seoul, South Korea / 2023 - Current
 - **Orion Governance** / Software Engineer Intern / USA / 2023.08 - Current
