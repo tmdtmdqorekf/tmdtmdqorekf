@@ -2,10 +2,10 @@
 
 ## I'm a Back-End Engineer👩‍💻
 - Seungeon Kim (Jenn)
-- Computer Science @Kookmin Univ.
+- Software @Kookmin Univ.
 
 ### Tech Stack💻
-- Languages : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+- Languages : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 - Frameworks : <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
 
@@ -17,4 +17,4 @@
 - **Studied Abroad** / Ireland & Canada / 2016 - 2020 (4yr)
 - **Student Council of the Department** / Seoul, South Korea / 2021 - 2022 (1yr)
 - **Likelion 11th** & **12th Admin** / Seoul, South Korea / 2023 - Current
-- **Orion Governance** / Software Engineer Intern / USA / 2023.08 - Current
+- **Orion Governance** / Software Engineer Intern / USA / 2023.08 - 2024.01
