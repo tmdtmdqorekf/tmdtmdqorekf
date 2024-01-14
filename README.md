@@ -1,6 +1,4 @@
-# 👋Hey! Nice to see you.
-
-## My Info👩‍💻
+## Profile👩‍💻
 - Seungeon Kim (Jenn)
 - Software @Kookmin Univ.
 
