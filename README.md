@@ -12,6 +12,7 @@
 - Skills : <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 ### Experiences
-- **Student Council of the Department** / Seoul, South Korea / 2021 - 2022 (1yr)
+- **Student Council of the Department** / Seoul, South Korea / 2021 - 2022
 - **Likelion 11th** & **12th Admin** / Seoul, South Korea / 2023 - Current
 - **Orion Governance** / Software Engineer Intern / USA / 2023.08 - 2024.01
+- **Industrial Bank of Korea (IBK)** / Digital Intern / Seoul, South Korea / 2024.01 - 2024.02
