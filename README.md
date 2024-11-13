@@ -20,7 +20,7 @@ majoring in Software @Kookmin Univ.
 | Likelion 11th & 12th Admin | Backend | Seoul, South Korea | 2023 - Current |
 | Orion Governance | Software Engineer Intern | San Mateo, California, USA | 2023.08 - 2024.01 |
 | Industrial Bank of Korea (IBK) | Digital Intern | Seoul, South Korea | 2024.01 - 2024.02 |
-| SKT Devocean Young 3rd | Backend | Seoul, South Korea | 2024 - Current |
+| SKT Devocean Young 3rd | Backend | Seoul, South Korea | 2024.03 - 2024.12 |
 | Goormthon Univ 2nd | Backend | Seoul, South Korea | 2024 |
 
 </div>
